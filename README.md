@@ -55,7 +55,7 @@ This repository serves as a **quick-reference guide** for the most important Pyt
 ## 🛠️ Quick Start
 ```bash
 # Clone repo
-git clone https://github.com/your-username/Python-ML-Essentials.git
+git clone https://github.com/Kirankumarvel/Python-ML-Essentials.git
 
 # Install all core libraries (optional)
 pip install -r requirements.txt
